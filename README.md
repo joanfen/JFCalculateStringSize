@@ -1,0 +1,2 @@
+# JFCalculateStringSize
+计算字符串完全显示所需的尺寸
